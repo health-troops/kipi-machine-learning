@@ -1,4 +1,4 @@
-# KIPI Machine Learning by Health Troops
+# E-KIPI Machine Learning (ML) by Health Troops
 
 ### Folder Structure
 <img src="./misc/folder_structure.png" />
